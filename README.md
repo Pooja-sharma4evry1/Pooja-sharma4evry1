@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5B21B6,50:2563EB,100:14B8A6&text=Pooja%20Sharma&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:5B21B6,50:2563EB,100:14B8A6&text=Pooja%20Sharma&fontColor=FFFFFF&fontSize=45&fontAlign=50&fontAlignY=38" width="100%" />
 </p>
 
 <!-- Animated Typing Header -->
@@ -11,7 +11,45 @@
 </a>
 </div>
 
----
+<p align="center">
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5B21B6,50:2563EB,100:14B8A6" />
+</p>
+
+<!--connections-->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Pooja-sharma4evry1">
+        <img src="https://img.shields.io/badge/GitHub-Pooja--sharma4evry1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/pooja-sharma-9911a9378/">
+        <img src="https://img.shields.io/badge/LinkedIn-Pooja%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:pooja.4evry1@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Pooja-sharma4evry1?tab=followers">
+        <img src="https://img.shields.io/github/followers/Pooja-sharma4evry1?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Pooja-sharma4evry1">
+        <img src="https://komarev.com/ghpvc/?username=Pooja-sharma4evry1&label=Profile%20Views&style=for-the-badge&color=5B21B6" alt="Profile Views"/>
+      </a>
+    </td>
+
+  </tr>
+</table>
+
+
+
+
 ## About Me
 
 Hi, I'm **Pooja Sharma**, a Computer Science and Engineering graduate passionate about software development, artificial intelligence, and intelligent systems.
@@ -20,7 +58,6 @@ Experienced in designing and developing software applications and web-based solu
 
 Aspiring Software Engineer specializing in the intersection of software development, Applied AI, and Intelligent Systems, with a focus on building scalable and impactful technology solutions.
 
----
 
 ## Skills
 
@@ -54,6 +91,7 @@ Aspiring Software Engineer specializing in the intersection of software developm
 </table>
 </div>
 
+<br>
 
 ## 💼 Experience
 
@@ -71,15 +109,29 @@ Aspiring Software Engineer specializing in the intersection of software developm
 HMR Institute of Technology & Management, GGSIPU  <br>
 2022 – 2026 | CGPA: **9.2**
 
----
 
-## 📊 GitHub Stats
+## GitHub Stats
+
+<table align="center">
+<tr>
+<td>
+<img  src="https://github-readme-stats.shion.dev/api?username=Pooja-sharma4evry1&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
+</td>
+
+<td>
+<img src="https://streak-stats.demolab.com/?user=Pooja-sharma4evry1&theme=nightowl&hide_border=false" height="170"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pooja-sharma4evry1&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Pooja-sharma4evry1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=Pooja-sharma4evry1&theme=tokyonight&hide_border=false" height="170"/>
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pooja-sharma4evry1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pooja-sharma4evry1&theme=nightowl&radius=12" width="95%" />
 </p>
 
 <!-- Footer -->
