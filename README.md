@@ -95,6 +95,25 @@ Aspiring Software Engineer specializing in the intersection of software developm
 
 ## 💼 Experience
 
+### Software Development Intern
+**DRDO – SSPL, Metcalfe House, New Delhi** | January 2026 – May 2026 (4 Months)
+
+**Centralized Internal Web Portal**
+- Developed a centralized web portal integrating multiple organizational utilities into a single interactive platform.
+- Improved digital accessibility and streamlined internal workflows for enhanced operational efficiency.
+
+**Atomic Insight AI**
+- Designed and developed an AI-powered educational platform featuring a domain-specific chatbot for atomic clock technology.
+- Delivered real-time assistance, personalized learning, and simplified complex atomic clock concepts through an intuitive web interface.
+
+**LabVIEW Automation System**
+- Engineered a LabVIEW-based automated measurement and sweep system using the **Keysight B2902B Source/Measure Unit (SMU)**.
+- Enabled automated I–V characterization, real-time data acquisition, and graphical visualization for efficient electrical testing and analysis.
+
+**Technologies:** React, TypeScript, Tailwind CSS, OpenAI API, LabVIEW, Keysight B2902B SMU, HTML, CSS, JavaScript, Git, GitHub
+
+<hr>
+
 ### Research & Development Intern (AI & Web Solutions)
 **DRDO – SSPL, Delhi** | June 2025 – August 2025
 
@@ -102,6 +121,8 @@ Aspiring Software Engineer specializing in the intersection of software developm
 - Developed a centralized HR Department web application to improve accessibility and streamline internal workflows.
 
 **Technologies:** Python, FastAPI, React.js, GIS Tools, OpenStreetMap, Tailwind CSS
+
+<hr>
 
 ## 🎓 Education
 
